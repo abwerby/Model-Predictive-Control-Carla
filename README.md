@@ -3,7 +3,8 @@ Model Predictive Controller tested on Carla simulator on Race track with referen
 
 ## Getting Started
 
-Python implementation of Model Predictive Controller (MPC) based on scipy optimization library. 
+Python implementation of Model Predictive Controller (MPC) based on scipy optimization library.  
+This is the final project in introduction to self driving cars specialization on coursera.
 
 ### Prerequisites
 python=3.6  
